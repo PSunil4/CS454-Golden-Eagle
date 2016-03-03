@@ -12,7 +12,7 @@ public class GenerateIndexFiles {
 	//Index Directory Path
 	String filesToIndex 		= "D:\\Index";
 	//Index Data Directory Path
-	String indexedDataDirectory = "D:\\\\Data";
+	String indexedDataDirectory = "D:\\Data";
 	
 	Indexer indexer;
 	SearchTerm searchTerm;
